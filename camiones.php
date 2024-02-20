@@ -28,7 +28,7 @@ if (!isset($_SESSION["username"])) {header("Location: ingresar_sesion.php");exit
 <button type="submit" name="elimina" class="btn" disabled><img id="image" src="img/eliminarr.png" alt="Image 3" width="70px" height="70px"></button>
 <button type="submit" name="x" class="btn" disabled><img id="image" src="img/eliminar.png" alt="Image 4" width="70px" height="70px"></button>
 <button type="submit" name="volver" class="btn"><img id="image" src="img/salir.png" alt="Image 5" width="70px" height="70px"></button>
-<button type="submit" name="js" class="btn"><img id="image" src="img/js.png" alt="Image 6" width="70px" height="70px"></button>
+<!--<button type="submit" name="js" class="btn"><img id="image" src="img/js.png" alt="Image 6" width="70px" height="70px"></button>-->
 </div>
 </form>
 </div>
